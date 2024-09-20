@@ -14,5 +14,6 @@ public class Main {
         System.out.println(attendance.integrateSystem());
         System.out.println(grading.integrateSystem());
         System.out.println(library.integrateSystem());
+        
     }
 }
