@@ -12,12 +12,7 @@ public class Main {
         SchoolManagementApp library = new LibrarySystemAdapter(librarySystem);
 
         System.out.println(attendance.integrateSystem());
-
         System.out.println(grading.integrateSystem());
-
         System.out.println(library.integrateSystem());
-
-
-
     }
 }
